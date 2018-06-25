@@ -1,0 +1,1 @@
+If you want to re-test the exploit after any exploitation trial, run cleanup.exe on the server-side with admin privileges to cleanup the side effects of the exploit.
